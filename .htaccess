@@ -1,0 +1,6 @@
+RewriteEngine On
+
+#allow access for daysideIDE https://github.com/boomyjee/dayside
+RewriteCond %{REQUEST_FILENAME} !/dayside/.*
+RewriteRule ^(.*)$ web/$1 [L,QSA]
+

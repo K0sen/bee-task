@@ -1,0 +1,12 @@
+{
+    "name": "k0sen/bee-task",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        }
+    }
+}
