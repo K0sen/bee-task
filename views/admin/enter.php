@@ -9,11 +9,11 @@
     <div class="invalid"><b>Invalid name/pass</b></div>
     <div class="form-group">
         <label for="name">Name</label>
-        <input type="text" class="form-control" id="name" placeholder="Name">
+        <input type="text" class="form-control" id="name" placeholder="admin">
     </div>
     <div class="form-group">
         <label for="password">Password</label>
-        <input type="password" class="form-control" id="password" placeholder="Password">
+        <input type="password" class="form-control" id="password" placeholder="123">
     </div>
     <button class="btn btn-default">Enter</button>
 </div>
